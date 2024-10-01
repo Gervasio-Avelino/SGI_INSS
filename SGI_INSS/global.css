@@ -1,0 +1,14 @@
+html, 
+#root {
+    min-width: 360px;
+}
+
+#root {
+    overflow: hidden;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

@@ -1,0 +1,20 @@
+#container-visualizar-equipamentos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .card {
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  #container-equipamentos {
+    min-height: 100vh;
+    min-width: 100vw;
+    padding: 0 20px;
+  }

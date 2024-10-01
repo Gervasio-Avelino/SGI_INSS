@@ -1,0 +1,18 @@
+#container-gerenciamento-usuarios {
+    margin-top: 20px;
+    min-height: 100vh;
+  }
+  
+  #container-gerenciamento-usuarios h2 {
+    margin-bottom: 20px;
+  }
+  
+  #container-gerenciamento-usuarios .table {
+    margin-top: 20px;
+  }
+  
+  #container-gerenciamento-usuarios .btn {
+    margin-right: 10px;
+  }
+
+  
